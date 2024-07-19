@@ -1,5 +1,5 @@
 .logoWidth {
-    width: 7%;
+    width: 100px;
 }
 
 .customSize {
@@ -30,3 +30,15 @@
     color: #141414 !important;
 }
 
+.changeIcon {
+    position: absolute;
+    top: 120px;
+    left: 24px;
+}
+
+#pencil:hover {
+    background-color: rgba(182, 181, 181, 0.714) !important;
+    color: black;
+    cursor: pointer;
+
+}
