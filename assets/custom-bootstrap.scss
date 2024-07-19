@@ -5,11 +5,13 @@
 
 $new-theme-colors: (
     "netflixBack": #141414,
+    "newGrey": #333333,
+    "settingGrey": #C8CCCC,
 );
 
 
 $theme-colors: map-merge($theme-colors , $new-theme-colors);
-$width-values: map-merge($width-values, $new-width-values);
+
 
 
 @import 'scss/bootstrap.scss';

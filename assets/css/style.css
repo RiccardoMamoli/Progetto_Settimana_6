@@ -16,5 +16,17 @@
     width: 35px;
 }
 
+.titleProfile {
+    font-size: 4rem;
+}
 
+
+.width30 {
+    width: 30%;
+}
+
+#overWhite:hover {
+    background-color: white !important;
+    color: #141414 !important;
+}
 
