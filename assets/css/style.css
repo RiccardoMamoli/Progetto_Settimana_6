@@ -21,9 +21,7 @@
 }
 
 
-.width30 {
-    width: 30%;
-}
+
 
 #overWhite:hover {
     background-color: white !important;
@@ -32,8 +30,8 @@
 
 .changeIcon {
     position: absolute;
-    top: 120px;
-    left: 24px;
+    top: 115px;
+    left: 20px;
 }
 
 #pencil:hover {
@@ -41,4 +39,8 @@
     color: black;
     cursor: pointer;
 
+}
+
+.avatar-box {
+    width: 185px;
 }
