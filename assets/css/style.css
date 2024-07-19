@@ -1,0 +1,20 @@
+.logoWidth {
+    width: 7%;
+}
+
+.customSize {
+    font-size: 22px;
+    cursor: pointer;
+}
+
+.searchBar {
+    display: none;
+}
+
+.fixedSize {
+    height: 35px;
+    width: 35px;
+}
+
+
+

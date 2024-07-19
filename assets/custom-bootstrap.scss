@@ -1,0 +1,15 @@
+@import 'scss/functions';
+@import 'scss/variables';
+
+
+
+$new-theme-colors: (
+    "netflixBack": #141414,
+);
+
+
+$theme-colors: map-merge($theme-colors , $new-theme-colors);
+$width-values: map-merge($width-values, $new-width-values);
+
+
+@import 'scss/bootstrap.scss';
